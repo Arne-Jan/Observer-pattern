@@ -1,0 +1,6 @@
+d:\Documents\Visual Studio 2017\Projects\Producten\Producten\bin\Debug\Producten.exe.config
+d:\Documents\Visual Studio 2017\Projects\Producten\Producten\bin\Debug\Producten.exe
+d:\Documents\Visual Studio 2017\Projects\Producten\Producten\bin\Debug\Producten.pdb
+d:\Documents\Visual Studio 2017\Projects\Producten\Producten\obj\Debug\Producten.csproj.CoreCompileInputs.cache
+d:\Documents\Visual Studio 2017\Projects\Producten\Producten\obj\Debug\Producten.exe
+d:\Documents\Visual Studio 2017\Projects\Producten\Producten\obj\Debug\Producten.pdb

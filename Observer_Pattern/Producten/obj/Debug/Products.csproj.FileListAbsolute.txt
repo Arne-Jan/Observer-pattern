@@ -1,0 +1,13 @@
+d:\Documents\Visual Studio 2017\Projects\Producten\Producten\bin\Debug\Producten.exe.config
+d:\Documents\Visual Studio 2017\Projects\Producten\Producten\bin\Debug\Producten.exe
+d:\Documents\Visual Studio 2017\Projects\Producten\Producten\bin\Debug\Producten.pdb
+d:\Documents\Visual Studio 2017\Projects\Producten\Producten\obj\Debug\Products.csproj.CoreCompileInputs.cache
+d:\Documents\Visual Studio 2017\Projects\Producten\Producten\obj\Debug\Producten.exe
+d:\Documents\Visual Studio 2017\Projects\Producten\Producten\obj\Debug\Producten.pdb
+C:\Users\ArneJ\Documents\GitHub\Observer-pattern\Observer_Pattern\Producten\bin\Debug\Producten.exe.config
+C:\Users\ArneJ\Documents\GitHub\Observer-pattern\Observer_Pattern\Producten\bin\Debug\Producten.exe
+C:\Users\ArneJ\Documents\GitHub\Observer-pattern\Observer_Pattern\Producten\bin\Debug\Producten.pdb
+C:\Users\ArneJ\Documents\GitHub\Observer-pattern\Observer_Pattern\Producten\obj\Debug\Products.csprojAssemblyReference.cache
+C:\Users\ArneJ\Documents\GitHub\Observer-pattern\Observer_Pattern\Producten\obj\Debug\Products.csproj.CoreCompileInputs.cache
+C:\Users\ArneJ\Documents\GitHub\Observer-pattern\Observer_Pattern\Producten\obj\Debug\Producten.exe
+C:\Users\ArneJ\Documents\GitHub\Observer-pattern\Observer_Pattern\Producten\obj\Debug\Producten.pdb

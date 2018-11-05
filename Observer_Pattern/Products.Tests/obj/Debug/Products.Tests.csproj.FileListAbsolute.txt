@@ -1,0 +1,33 @@
+d:\Documents\Visual Studio 2017\Projects\Producten\Products.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+d:\Documents\Visual Studio 2017\Projects\Producten\Products.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+d:\Documents\Visual Studio 2017\Projects\Producten\Products.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+d:\Documents\Visual Studio 2017\Projects\Producten\Products.Tests\bin\Debug\Products.Tests.dll
+d:\Documents\Visual Studio 2017\Projects\Producten\Products.Tests\bin\Debug\Products.Tests.pdb
+d:\Documents\Visual Studio 2017\Projects\Producten\Products.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+d:\Documents\Visual Studio 2017\Projects\Producten\Products.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+d:\Documents\Visual Studio 2017\Projects\Producten\Products.Tests\bin\Debug\Producten.exe
+d:\Documents\Visual Studio 2017\Projects\Producten\Products.Tests\bin\Debug\Producten.pdb
+d:\Documents\Visual Studio 2017\Projects\Producten\Products.Tests\bin\Debug\Producten.exe.config
+d:\Documents\Visual Studio 2017\Projects\Producten\Products.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+d:\Documents\Visual Studio 2017\Projects\Producten\Products.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+d:\Documents\Visual Studio 2017\Projects\Producten\Products.Tests\obj\Debug\Products.Tests.csprojResolveAssemblyReference.cache
+d:\Documents\Visual Studio 2017\Projects\Producten\Products.Tests\obj\Debug\Products.Tests.csproj.CoreCompileInputs.cache
+d:\Documents\Visual Studio 2017\Projects\Producten\Products.Tests\obj\Debug\Products.Tests.dll
+d:\Documents\Visual Studio 2017\Projects\Producten\Products.Tests\obj\Debug\Products.Tests.pdb
+C:\Users\ArneJ\Documents\GitHub\Observer-pattern\Observer_Pattern\Products.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\ArneJ\Documents\GitHub\Observer-pattern\Observer_Pattern\Products.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\ArneJ\Documents\GitHub\Observer-pattern\Observer_Pattern\Products.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\ArneJ\Documents\GitHub\Observer-pattern\Observer_Pattern\Products.Tests\bin\Debug\Products.Tests.dll
+C:\Users\ArneJ\Documents\GitHub\Observer-pattern\Observer_Pattern\Products.Tests\bin\Debug\Products.Tests.pdb
+C:\Users\ArneJ\Documents\GitHub\Observer-pattern\Observer_Pattern\Products.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\ArneJ\Documents\GitHub\Observer-pattern\Observer_Pattern\Products.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\ArneJ\Documents\GitHub\Observer-pattern\Observer_Pattern\Products.Tests\bin\Debug\Producten.exe
+C:\Users\ArneJ\Documents\GitHub\Observer-pattern\Observer_Pattern\Products.Tests\bin\Debug\Producten.pdb
+C:\Users\ArneJ\Documents\GitHub\Observer-pattern\Observer_Pattern\Products.Tests\bin\Debug\Producten.exe.config
+C:\Users\ArneJ\Documents\GitHub\Observer-pattern\Observer_Pattern\Products.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\ArneJ\Documents\GitHub\Observer-pattern\Observer_Pattern\Products.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\ArneJ\Documents\GitHub\Observer-pattern\Observer_Pattern\Products.Tests\obj\Debug\Products.Tests.csprojAssemblyReference.cache
+C:\Users\ArneJ\Documents\GitHub\Observer-pattern\Observer_Pattern\Products.Tests\obj\Debug\Products.Tests.csproj.CoreCompileInputs.cache
+C:\Users\ArneJ\Documents\GitHub\Observer-pattern\Observer_Pattern\Products.Tests\obj\Debug\Products.Tests.csproj.CopyComplete
+C:\Users\ArneJ\Documents\GitHub\Observer-pattern\Observer_Pattern\Products.Tests\obj\Debug\Products.Tests.dll
+C:\Users\ArneJ\Documents\GitHub\Observer-pattern\Observer_Pattern\Products.Tests\obj\Debug\Products.Tests.pdb
